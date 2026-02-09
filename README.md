@@ -1,6 +1,6 @@
 # Resume Agent
 
-An evaluator-optimizer CLI tool that transforms any resume into a DevOps Engineering Manager resume. GPT-4o generates the resume, Claude evaluates it and provides feedback, and the loop repeats until a quality threshold is met.
+An evaluator-optimizer CLI tool that transforms any resume into a DevOps resume. GPT-4o generates the resume, Claude evaluates it and provides feedback, and the loop repeats until a quality threshold is met.
 
 ## How It Works
 
